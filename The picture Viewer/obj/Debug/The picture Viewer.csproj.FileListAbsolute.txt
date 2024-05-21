@@ -1,0 +1,21 @@
+C:\Users\Dell\source\repos\The picture Viewer\The picture Viewer\bin\Debug\The picture Viewer.exe.config
+C:\Users\Dell\source\repos\The picture Viewer\The picture Viewer\bin\Debug\The picture Viewer.exe
+C:\Users\Dell\source\repos\The picture Viewer\The picture Viewer\bin\Debug\The picture Viewer.pdb
+C:\Users\Dell\source\repos\The picture Viewer\The picture Viewer\obj\Debug\The picture Viewer.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\The picture Viewer\The picture Viewer\obj\Debug\The_picture_Viewer.Form1.resources
+C:\Users\Dell\source\repos\The picture Viewer\The picture Viewer\obj\Debug\The_picture_Viewer.Properties.Resources.resources
+C:\Users\Dell\source\repos\The picture Viewer\The picture Viewer\obj\Debug\The picture Viewer.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\The picture Viewer\The picture Viewer\obj\Debug\The picture Viewer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\The picture Viewer\The picture Viewer\obj\Debug\The picture Viewer.exe
+C:\Users\Dell\source\repos\The picture Viewer\The picture Viewer\obj\Debug\The picture Viewer.pdb
+G:\Projects\The picture Viewer\The picture Viewer\bin\Debug\The picture Viewer.exe.config
+G:\Projects\The picture Viewer\The picture Viewer\bin\Debug\The picture Viewer.exe
+G:\Projects\The picture Viewer\The picture Viewer\bin\Debug\The picture Viewer.pdb
+G:\Projects\The picture Viewer\The picture Viewer\obj\Debug\The picture Viewer.csproj.AssemblyReference.cache
+G:\Projects\The picture Viewer\The picture Viewer\obj\Debug\The picture Viewer.csproj.SuggestedBindingRedirects.cache
+G:\Projects\The picture Viewer\The picture Viewer\obj\Debug\The_picture_Viewer.Form1.resources
+G:\Projects\The picture Viewer\The picture Viewer\obj\Debug\The_picture_Viewer.Properties.Resources.resources
+G:\Projects\The picture Viewer\The picture Viewer\obj\Debug\The picture Viewer.csproj.GenerateResource.cache
+G:\Projects\The picture Viewer\The picture Viewer\obj\Debug\The picture Viewer.csproj.CoreCompileInputs.cache
+G:\Projects\The picture Viewer\The picture Viewer\obj\Debug\The picture Viewer.exe
+G:\Projects\The picture Viewer\The picture Viewer\obj\Debug\The picture Viewer.pdb

@@ -1,0 +1,21 @@
+G:\Projects\The picture Viewer\The picture Viewer\bin\Release\The picture Viewer.exe.config
+G:\Projects\The picture Viewer\The picture Viewer\bin\Release\The picture Viewer.exe
+G:\Projects\The picture Viewer\The picture Viewer\bin\Release\The picture Viewer.pdb
+G:\Projects\The picture Viewer\The picture Viewer\obj\Release\The picture Viewer.csproj.AssemblyReference.cache
+G:\Projects\The picture Viewer\The picture Viewer\obj\Release\The picture Viewer.csproj.SuggestedBindingRedirects.cache
+G:\Projects\The picture Viewer\The picture Viewer\obj\Release\The_picture_Viewer.Form1.resources
+G:\Projects\The picture Viewer\The picture Viewer\obj\Release\The_picture_Viewer.Properties.Resources.resources
+G:\Projects\The picture Viewer\The picture Viewer\obj\Release\The picture Viewer.csproj.GenerateResource.cache
+G:\Projects\The picture Viewer\The picture Viewer\obj\Release\The picture Viewer.csproj.CoreCompileInputs.cache
+G:\Projects\The picture Viewer\The picture Viewer\obj\Release\The picture Viewer.exe
+G:\Projects\The picture Viewer\The picture Viewer\obj\Release\The picture Viewer.pdb
+D:\my projects\The picture Viewer\The picture Viewer\bin\Release\The picture Viewer.exe.config
+D:\my projects\The picture Viewer\The picture Viewer\bin\Release\The picture Viewer.exe
+D:\my projects\The picture Viewer\The picture Viewer\bin\Release\The picture Viewer.pdb
+D:\my projects\The picture Viewer\The picture Viewer\obj\Release\The picture Viewer.csproj.AssemblyReference.cache
+D:\my projects\The picture Viewer\The picture Viewer\obj\Release\The_picture_Viewer.Form1.resources
+D:\my projects\The picture Viewer\The picture Viewer\obj\Release\The_picture_Viewer.Properties.Resources.resources
+D:\my projects\The picture Viewer\The picture Viewer\obj\Release\The picture Viewer.csproj.GenerateResource.cache
+D:\my projects\The picture Viewer\The picture Viewer\obj\Release\The picture Viewer.csproj.CoreCompileInputs.cache
+D:\my projects\The picture Viewer\The picture Viewer\obj\Release\The picture Viewer.exe
+D:\my projects\The picture Viewer\The picture Viewer\obj\Release\The picture Viewer.pdb
